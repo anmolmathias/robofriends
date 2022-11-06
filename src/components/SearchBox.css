@@ -1,0 +1,9 @@
+.search {
+	border: 2px solid transparent;
+}
+
+.search:focus {
+	border: 2px solid #dcdcfa;
+	outline: none;
+	position: relative;
+}
